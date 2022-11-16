@@ -1,0 +1,617 @@
+141785963630169
+CPU2
+6502CPU
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+6502 cpu 40 dip pdip 
+0
+40
+40
+CPU2
+AST-03208MR_Speaker
+
+
+0
+2
+2
+CPU2
+Audio_SJ1-3535NG
+
+
+0
+5
+5
+CPU2
+BUS_PCIexpress_TE
+PCIexpress Bus Edge Connector
+PCIexpress Bus Edge Connector
+0
+72
+36
+CPU2
+BUS_PCIexpress_TE_Card
+PCIexpress Bus Edge Connector
+PCIexpress Bus Edge Connector
+0
+72
+36
+CPU2
+C64-2xDRAM
+
+
+0
+24
+23
+CPU2
+C64_CASSETTEPORT
+Card edge connector 3.96mm pitch 2x12
+conn samtec card-edge high-speed
+0
+12
+12
+CPU2
+C64_EXPANSION_CARD_49mm
+
+
+0
+44
+44
+CPU2
+C64_EXPANSION_CARD_68mm
+
+
+0
+44
+44
+CPU2
+C64_EXPANSION_CARD_68mm_2H
+
+
+0
+44
+44
+CPU2
+C64_EXPANSION_CARD_83mm
+
+
+0
+44
+44
+CPU2
+C64_EXPANSION_CARD_129x105mm
+
+
+0
+50
+45
+CPU2
+C64_EXPANSION_PORT
+Through hole angled pin header, 2x22, 2.54mm pitch, 6mm pin length, double rows
+Through hole angled pin header THT 2x22 2.54mm double row
+0
+44
+44
+CPU2
+C64_USERPORT
+Card edge connector 3.96mm pitch 2x12
+conn samtec card-edge high-speed
+0
+24
+24
+CPU2
+C128D_Supply
+
+
+0
+9
+3
+CPU2
+CVS-1508_Speaker
+
+
+0
+2
+2
+CPU2
+CableRelief-4mmZipTie
+
+
+0
+4
+1
+CPU2
+Choke_CM_Custom1
+
+
+0
+4
+4
+CPU2
+Coleco_Expansion_Card
+
+
+0
+30
+30
+CPU2
+Conn_03x16
+
+
+0
+48
+48
+CPU2
+Connector_ATX
+
+
+0
+26
+24
+CPU2
+Connector_SPITFTTouch
+
+
+0
+13
+13
+CPU2
+Crystal_SMD_CMJ206T
+SMD Watch Crystal MicroCrystal MS1V-T1K 6.1mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS1V-T1K.pdf
+['MS1V-T1K']
+0
+3
+3
+CPU2
+DIP-16_W7.62mm-DRAM4164L
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+9
+9
+CPU2
+DIP-16_W7.62mm-DRAM4164R
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+7
+7
+CPU2
+DIP-64_750
+
+
+0
+64
+64
+CPU2
+DPDT_1581
+300DP1J1BLKM7QE
+
+0
+8
+6
+CPU2
+DSUB-15F_2311586-4_VGA
+15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x2.54mm, pin-PCB-offset 9.4mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
+15-pin D-Sub connector horizontal angled 90deg THT female pitch 2.29x2.54mm pin-PCB-offset 9.4mm
+0
+17
+15
+CPU2
+ESP32-DEV1
+Through hole straight socket strip, 2x18, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x18 2.54mm double row
+0
+38
+38
+CPU2
+ESP8266NodeMCU
+
+
+0
+30
+30
+CPU2
+FCBGA-486_14.0x14.0_0.5mmSpacing_0.3mmPad
+
+
+0
+486
+486
+CPU2
+FCBGA-486_14.0x14.0_0.5mmSpacing_0.25mmPad - Copy
+
+
+0
+486
+486
+CPU2
+FCBGA-729_14.0x14.0_0.5mmSpacing_0.3mmPad
+
+
+0
+729
+729
+CPU2
+FUSE_5x20mm-2x00300210H
+
+
+0
+4
+2
+CPU2
+FlipChip9
+
+
+0
+9
+9
+CPU2
+HyperExpander_1806x214_95dpi
+
+
+0
+0
+0
+CPU2
+HyperExpander_1806x214_200dpi
+
+
+0
+0
+0
+CPU2
+HyperExpander_1806x214_450dpi
+
+
+0
+0
+0
+CPU2
+HyperExpander_1806x214_1200dpi
+
+
+0
+0
+0
+CPU2
+IEEE-488_CARD_EDGE
+
+
+0
+24
+24
+CPU2
+IS62C256AL-45TLI
+TSOP I, 28 pins, 18.8x8mm body, 0.55mm pitch, IPC-calculated pads (http://ww1.microchip.com/downloads/en/devicedoc/doc0807.pdf)
+TSOP I 28 pins
+0
+28
+28
+CPU2
+JTAG-6
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+6
+6
+CPU2
+LFCSP-6
+LFCSP 6pin Pitch 0.65mm
+LFCSP 6pin 2x2mm Pitch 0.65mm
+0
+7
+7
+CPU2
+LLP1713-9L
+
+
+0
+9
+9
+CPU2
+LM2678T-5
+
+
+0
+7
+7
+CPU2
+MLB-STM32H753BITx
+
+
+0
+164
+164
+CPU2
+Oscillator_SMD_Abracon_ASF-4Pin_5.0x3.2mm_Handsoldering
+Miniature Crystal Clock Oscillator EuroQuartz XO53 series, http://cdn-reichelt.de/documents/datenblatt/B400/XO53.pdf, hand-soldering, 5.0x3.2mm^2 package
+SMD SMT crystal oscillator hand-soldering
+0
+4
+4
+CPU2
+Pi1541LSModule
+
+
+0
+12
+12
+CPU2
+Potentiometer_Bourns_PTV09A-2_Single_Horizontal
+Potentiometer, horizontal, Bourns PTV09A-2 Single, http://www.bourns.com/docs/Product-Datasheets/ptv09.pdf
+Potentiometer horizontal Bourns PTV09A-2 Single
+0
+5
+4
+CPU2
+RFM_C64
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+16
+8
+CPU2
+RFM_C64B
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+14
+8
+CPU2
+RFM_C128
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+11
+8
+CPU2
+R_Axial_DIN0204_L3.6mm_D1.6mm_P12.7mm_Horizontal
+Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=12.7mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Horizontal pin pitch 12.7mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+CPU2
+Relay_SPST_Omron_G5RL-K1A-E
+http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v2.pdf
+Omron G5V-2 Relay DPDT
+0
+7
+7
+CPU2
+SDF-60J_DIN-6-240
+
+SDF-60J
+0
+12
+7
+CPU2
+SDF-80J_DIN-8
+
+SDF-60J
+0
+14
+9
+CPU2
+SO-8_7.5x7.5mm
+
+
+0
+8
+8
+CPU2
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+CPU2
+SOT-753
+SOT563
+SOT-563
+0
+5
+5
+CPU2
+SOT-763
+SOT563
+SOT-563
+0
+6
+6
+CPU2
+SPECTRUM_EDGE_CONNECTOR
+40 pins through hole IDC header
+IDC header socket VASCH
+0
+54
+54
+CPU2
+SRAM-AS6C4008-32DIP
+32-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+32
+32
+CPU2
+SVIDEO_PORT_KMDGX-4S-BS
+
+
+0
+7
+5
+CPU2
+SW_DPST_SDDJE30500
+
+
+0
+6
+4
+CPU2
+SolderPad
+
+
+0
+1
+1
+CPU2
+SolderPad2
+
+
+0
+1
+1
+CPU2
+SolderWirePad_1x06_P3.81mm_Drill1.2mm
+Wire solder connection
+connector
+0
+6
+6
+CPU2
+TO-3
+Transistor TO-3
+TR TO-3 TO3 TO-204
+0
+4
+3
+CPU2
+TSOP-32_14x8mm_P0.5mm
+TSOP-I, 32 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSOP-I SO
+0
+32
+32
+CPU2
+Texas_DSBGA-15_1.36x2.16mm_Layout3x5_P0.5mm
+
+
+0
+15
+15
+CPU2
+UDFN-16_1.35x3.3mm_P0.4mm
+http://www.st.com/content/ccc/resource/technical/document/datasheet/f2/11/8a/ed/40/31/40/56/DM00088292.pdf/files/DM00088292.pdf/jcr:content/translations/en.DM00088292.pdf
+UDFN 0.5 uQFN
+0
+17
+17
+CPU2
+USB_Micro-B_UJ2-MIBH-4
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+11
+6
+CPU2
+USB_Micro-C_UJC-HP-3-SMT-TR
+Molex Vertical Micro USB Typ-B (http://www.molex.com/pdm_docs/sd/1051330031_sd.pdf)
+Micro-USB SMD Typ-B Vertical
+0
+10
+7
+CPU2
+VIC20_EXPANSIONPORT
+
+
+0
+44
+44
+CPU2
+VIC20_EXPANSIONPORT_WIRE
+
+
+0
+44
+44
+CPU2
+VIC20_EXPANSION_CARD_1
+
+
+0
+44
+44
+CPU2
+VIC20_EXPANSION_CARD_2
+
+
+0
+44
+44
+CPU2
+VIC20_EXPANSION_CARD_3
+
+
+0
+44
+44
+CPU2
+VIC20_EXPANSION_CARD_sven
+
+
+0
+44
+44
+CPU2
+VIC20_POWER_C8
+
+
+0
+2
+2
+CPU2
+VideoOutHeader_1x03
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+CPU2
+W65C02CPU
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+6502 cpu 40 dip pdip 
+0
+40
+40
+CPU2
+W65C02CPU-44QFP
+44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)
+PQFP 0.8
+0
+44
+44
+CPU2
+W65C816CPU
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+6502 cpu 40 dip pdip 
+0
+40
+40
+CPU2
+W65C816CPU-44QFP
+44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)
+PQFP 0.8
+0
+44
+44
+CPU2
+WSON-8_8x6mm
+http://www.ti.com/lit/ml/mpds406/mpds406.pdf
+WSON8_4x4mm_P0.8mm
+0
+9
+9
+CPU2
+XTAL_MODULE_DIP-24_W15.24mm
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+16
+16
+CPU2
+ZX_CARD_EDGE
+
+
+0
+0
+0
